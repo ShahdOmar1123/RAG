@@ -1,0 +1,1 @@
+RAG (Retrieval-Augmented Generation) project that combines semantic search with Large Language Models to retrieve relevant context and generate accurate, context-aware answers using vector databases and embeddings.
